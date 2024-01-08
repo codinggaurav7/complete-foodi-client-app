@@ -1,6 +1,7 @@
 ## Foodi-App 
 # complete-mern-project
-![Foodie-App](http://Screenshot 2024-01-09 043542/to/img.png)
+![Foodie-App](https://github.com/codinggaurav7/complete-foodi-client-app/assets/85605062/d81d594f-2dbb-455f-a9db-390c5791b868)
+043542/to/img.png)
 
 ## Table of Contents
 - [Install](#install)
