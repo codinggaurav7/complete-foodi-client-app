@@ -1,6 +1,6 @@
 ## Foodi-App 
 # complete-mern-project
-![complete-mern-project](/cover-image.png)
+![complete-mern-project](/Screenshot 2024-01-09 043542.png)
 
 ## Table of Contents
 - [Install](#install)
